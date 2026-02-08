@@ -61,5 +61,9 @@ graph TD
     CDK --> Infra["AWS Infrastructure"]
 
 
-Link to the chart:
-https://mermaid.ai/app/projects/79c84156-3b3e-44ac-bcc3-d26eec561826/diagrams/f27d5c17-ac56-468a-b019-0b1fe6718cb9/share/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb2N1bWVudElEIjoiZjI3ZDVjMTctYWM1Ni00NjhhLWIwMTktMGIxZmU2NzE4Y2I5IiwiYWNjZXNzIjoiVmlldyIsImlhdCI6MTc2OTI1MzQ1MX0.NxdOru23kTMDutZqaPjI9p1zgpgwI7j8y_4Dmn1RESs
+Image of the chart:
+<img width="8192" height="4905" alt="image" src="https://github.com/user-attachments/assets/dcd9ec02-b329-4a35-a835-c619eb5b7770" />
+
+
+
+
