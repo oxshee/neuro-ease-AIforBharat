@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "NeuroEase",
+  "version": "1.0",
+  "description": "AI-powered accessibility extension for neurodivergent users",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>",
+    "https://0dpx2qh3ng.execute-api.us-east-1.amazonaws.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "NeuroEase"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ]
+}
