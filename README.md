@@ -138,7 +138,7 @@ The page will instantly transform into a more readable format.
 
 Prototype demonstration video:
 
-*(Add your YouTube demo link here)*
+*https://youtu.be/cas-3ubLitc*
 
 ---
 
@@ -156,7 +156,9 @@ Prototype demonstration video:
 
 Project developed as part of an academic prototype project.
 
-* Add team member names here
+*  Srinithi Alaguperumal
+*  Yugam Jain
+*  Oishee Chatterjee
 
 ---
 
