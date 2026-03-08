@@ -1,7 +1,7 @@
 # NeuroEase 🧠✨
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=NeuroEase&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Making%20the%20Web%20Calmer%20and%20Easier%20to%20Read&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=NeuroEase&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Making%20the%20Web%20Calmer%20and%20Easier%20to%20Read&descAlignY=55" />
 </p>
 
 <p align="center">
